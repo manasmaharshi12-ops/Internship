@@ -1,4 +1,4 @@
-# SkillCraft Technology Internship Projects
+#  Internship Projects
 
 This repository contains projects completed during my SkillCraft Technology internship.
 
